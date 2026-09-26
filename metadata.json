@@ -1,0 +1,8 @@
+{
+  "name": "KFHH - AI Crop Doctor",
+  "description": "Plant disease diagnosis, regional voice assistant, treatment recommendations, and agricultural advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
